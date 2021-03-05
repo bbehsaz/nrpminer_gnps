@@ -1,0 +1,1 @@
+python nrpminer_nrpspredictor3.py -s /Users/bahar/workspace/npd_tools/projects/tiny_earth/nrpminer_version/nrpminer_explore/test_data/AH25.mzML --antismash_resdir test_data/BacamyGZYCT4_4_2_final/ -o test --derepdir /Users/bahar/workspace/npd_tools/dereplicator/cycloquest_minimal/bin/ --maxmod 250
