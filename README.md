@@ -1,5 +1,10 @@
 # NRPminer 1.0: Scalable Peptidogenomics Algorithm for Non-Ribosomal Peptide Discovery 
 
+
+IMPORTANT: this is the latest version of NRPminer that is going to be used in the *GNPS web-application* 
+
+
+
 NRPminer is a modification-tolerant scalable metabologenomics method for discovering NRPs by integrating (meta)genomics and tandem mass spectrometry (metabolomics) data
 
 ## Dependencies (add binaries to PATH):
